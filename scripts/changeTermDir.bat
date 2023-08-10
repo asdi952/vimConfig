@@ -1,0 +1,1 @@
+start cd %1
